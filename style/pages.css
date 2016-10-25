@@ -1997,8 +1997,12 @@ section.reviews {
   /* line 1737, pages.scss */
   section.reviews .about {
     position: absolute;
+    background-color: grey;
+    background-blend-mode: multiply;
+    background-image: url(https://pp.vk.me/c631229/v631229231/5156d/lBHaMBd8KM4.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
     height: 53.3%;
-    background: url(https://pp.vk.me/c631229/v631229231/5156d/lBHaMBd8KM4.jpg) no-repeat top right;
     background-size: cover;
     right: 18vw;
     bottom: 0;
